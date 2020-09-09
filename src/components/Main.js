@@ -21,6 +21,7 @@ function MainComponent() {
           <Col xs={24} lg={8} className={styles.main_content_box}>
             <div className={styles.main_content_box_video}>
               <iframe
+                title="just test"
                 width="560"
                 height="315"
                 src="https://www.youtube.com/embed/smbG77cepTM"
