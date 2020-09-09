@@ -5,18 +5,19 @@ function FooterComponent() {
   return (
     <footer className={styles.footer}>
       <span>
-        ©ANN0NIT 2020 - Made with{" "}
-        <span role="img" aria-label="coffe-cup">
-          ☕️
-        </span>{" "}
-        by
+        Designed and developed by{" "}
         <a
           target="_blank"
           rel="noopener noreferrer"
           href="https://www.juanmartingimenez.com"
         >
+          {" "}
           @Ann0nIp
-        </a>
+        </a>{" "}
+        © 2020
+        <span role="img" aria-label="coffe-cup">
+          ☕️
+        </span>{" "}
       </span>
     </footer>
   );
