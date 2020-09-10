@@ -15,9 +15,6 @@ function FooterComponent() {
           @Ann0nIp
         </a>{" "}
         © 2020
-        <span role="img" aria-label="coffe-cup">
-          ☕️
-        </span>{" "}
       </span>
     </footer>
   );

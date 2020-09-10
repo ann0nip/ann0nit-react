@@ -14,8 +14,12 @@ function MainComponent() {
             </h1>{" "}
             <h2 className={styles.main_content_box_h2}>para principiantes.</h2>
             <p className={styles.main_content_box_p}>
-              Aprende a crear aplicaciones web del mundo real utilizando las
-              últimas herramientas y tecnologías.
+              Aprende conmigo a crear aplicaciones web utilizando las últimas
+              herramientas y tecnologías de la manera mas simple y amena
+              posible!{" "}
+              <span role="img" aria-label="happy face">
+                😀
+              </span>
             </p>
           </Col>
           <Col xs={24} lg={8} className={styles.main_content_box}>
@@ -39,10 +43,16 @@ function MainComponent() {
           <Col xs={24}>
             <div className={styles.content_info}>
               <p className={styles.content_info_p}>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta,
-                neque. Aut architecto praesentium odio fugiat cum provident ipsa
-                voluptatem corporis! Temporibus perspiciatis eveniet incidunt,
-                est non quis optio? Sit, iure?
+                ¿Quieres dar tus primeros pasos en el desarrollo web? En
+                Ann0nIt.com aprenderás desde cero los fundamentos básicos como
+                HTML, CSS y JavaScript{" "}
+                <span role="img" aria-label="programmer">
+                  👨🏻‍💻
+                </span>
+              </p>
+              <p className={styles.content_info_p}>
+                Sumate, aprendé y desarrollate en el mundo de la{" "}
+                <strong>Web 3.0</strong>
               </p>
             </div>
           </Col>
@@ -50,14 +60,13 @@ function MainComponent() {
 
         <div className={styles.content_bootcamps}>
           <div className={styles.content_bootcamp_box}>
-            <h2>Title</h2>
+            <h2>Title</h2>¡¡
             <figure className={styles.content_bootcamp_box_figure}>
               <img
                 src="https://www.nicolas-schurmann.com/static/247e510055ad932e286ebbe11276356e/1766a/render-props.png"
                 alt=""
               ></img>
             </figure>
-
             <section>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore
               repellendus nobis ipsa incidunt rem. Doloremque ad cum ipsum
