@@ -14,9 +14,8 @@ function MainComponent() {
             </h1>{" "}
             <h2 className={styles.main_content_box_h2}>para principiantes.</h2>
             <p className={styles.main_content_box_p}>
-              Aprende conmigo a crear aplicaciones web utilizando las últimas
-              herramientas y tecnologías de la manera mas simple y amena
-              posible!{" "}
+              Aprende conmigo a crear aplicaciones web de la manera mas simple y
+              amena posible!{" "}
               <span role="img" aria-label="happy face">
                 😀
               </span>
